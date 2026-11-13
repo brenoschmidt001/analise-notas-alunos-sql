@@ -1,0 +1,17 @@
+# Arquivos de configuração e credenciais
+.env
+.env.local
+*.cnf
+
+# Arquivos temporários
+*.tmp
+*.log
+*.bak
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações de editores
+.vscode/
+.idea/
